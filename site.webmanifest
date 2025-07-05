@@ -1,0 +1,16 @@
+{
+  "name": "Rishav Raj - Personal Website",
+  "short_name": "Rishav Raj",
+  "description": "Personal website and portfolio of Rishav Raj",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3b82f6",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "32x32",
+      "type": "image/ico"
+    }
+  ]
+} 
