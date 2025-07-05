@@ -1,9 +1,9 @@
 {
-  "name": "personal-website",
+  "name": "rishavraj-website",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://yourusername.github.io/personal-website",
+  "homepage": "https://rishavraj221.github.io/personal-website",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
